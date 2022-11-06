@@ -1,2 +1,2 @@
 ## Organizations
-- [WP Block Theme Development](https://github.com/block-theme)
+- [Block Theme Project](https://github.com/block-theme)
